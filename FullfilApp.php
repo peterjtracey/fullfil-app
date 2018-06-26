@@ -1,5 +1,8 @@
 <?php
-
+/*
+FullfilApp - LGPL license
+https://github.com/peterjtracey/fullfil-app
+*/
 namespace FLApp;
 
 require_once 'objects/Order.php';
