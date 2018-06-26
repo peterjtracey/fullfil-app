@@ -8,3 +8,11 @@ It was designed to be as simple as possible due to being needed in both a Magent
 It has been tested as thoroughly as possible against a "dummy" endpoint mimicing TFL's API, however said client decided not to go forward with TFL's services so it has not been tested against their actual API - bug reports, patches, and suggestions are welcome.
 
 This library is not supported or associated with The Fulfillment Lab themselves.
+
+## Dependencies
+
+Requires Httpful which facilitates all communication with the API.
+
+## Usage
+
+Mainly self-explanatory. See tests.php for example code.
