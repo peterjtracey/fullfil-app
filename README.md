@@ -13,6 +13,8 @@ This library is not supported or associated with The Fulfillment Lab themselves.
 
 Requires Httpful which facilitates all communication with the API.
 
+Requires PHPImapClient for scanning inventory from emailed reports.
+
 ## Usage
 
 Mainly self-explanatory. See tests.php for example code.
